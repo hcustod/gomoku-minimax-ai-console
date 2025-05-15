@@ -1,0 +1,16 @@
+# IDE files (IntelliJ, Rider, etc.)
+.idea/
+*.iml
+
+# macOS metadata
+.DS_Store
+
+# Java build output
+/out/
+*.class
+
+# Docker
+*.tar
+
+# Logs
+*.log
