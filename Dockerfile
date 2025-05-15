@@ -4,6 +4,7 @@ WORKDIR /app
 
 COPY src/ .
 
+# Main target
 RUN javac Main.java
 
 # Run game

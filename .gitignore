@@ -1,11 +1,7 @@
 .idea/
 *.iml
-
 .DS_Store
-
 /out/
 *.class
-
 *.tar
-
 *.log
